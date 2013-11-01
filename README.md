@@ -1,4 +1,4 @@
 ynnuS.github.io
 ===============
 
-ynnuS is an iOS App
+This is a repo for the app's site.
